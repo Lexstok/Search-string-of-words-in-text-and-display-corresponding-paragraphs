@@ -1,0 +1,12 @@
+Program to read text from a file or from raw input, buffering text and searching for a string.
+When 2 CRs are found (a paragraph) if a match was found in it the buffer is 
+printed.  The buffer is cleared and reading continued.
+The effect is to print the entire paragraph if it contains a match.
+   
+   
+Another paragraph start also is cleared
+This makes it another paragraph for the buffer
+
+
+This makes another paragraph that should be detected.
+start also Should also be displayed.
