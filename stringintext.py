@@ -1,6 +1,7 @@
 # Search for string in paragraph
-# Adaptation from C code
-# Alex Boschmans
+# Adaptation from C code found on http://forums.macrumors.com/showthread.php?t=1833952
+# 
+# Alex Boschmans ( http://www.boschmans.net )
 
 def usage():
     print """
