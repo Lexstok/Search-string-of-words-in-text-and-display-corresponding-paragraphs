@@ -9,4 +9,4 @@ Adaptation from C code found on http://forums.macrumors.com/showthread.php?t=183
 
 Usage: python stringintext.py -s one or more words to search for -f filename
 
-Parapgraphs are defined as have two empty lines between them.
+Parapgraphs are defined as having two empty lines between them.
