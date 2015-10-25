@@ -10,7 +10,7 @@ def usage():
     printed.  The buffer is cleared and reading continued.
     The effect is to print the entire paragraph if it contains a match.
 
-    Usage: python stringintext.py <searchstring> -f <filename>
+    Usage: python stringintext.py -s <one or more words to search for> -f <filename>
     """
 
 def filexists(fname):
