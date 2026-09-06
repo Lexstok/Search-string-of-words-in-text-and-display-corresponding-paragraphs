@@ -1,4 +1,4 @@
-# Search for string in paragraph
+# Search for string in paragraph (Python 2 code!!!!)
 # Adaptation from C code found on http://forums.macrumors.com/showthread.php?t=1833952
 # 
 # Alex Boschmans ( http://www.boschmans.net )
