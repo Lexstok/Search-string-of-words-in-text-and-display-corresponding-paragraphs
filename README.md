@@ -1,4 +1,4 @@
-Small python script to search for one or more words in a file and display the corresponding paragraphs.
+Small python 2 script to search for one or more words in a file and display the corresponding paragraphs.
 
 Adaptation from C code found on http://forums.macrumors.com/showthread.php?t=1833952
 
